@@ -1,0 +1,11 @@
+{
+  "name": "ZEBRE CRM",
+  "short_name": "ZEBRE CRM",
+  "description": "CRM commercial collaboratif, utilisable hors ligne.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#121614",
+  "theme_color": "#121614",
+  "lang": "fr",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
